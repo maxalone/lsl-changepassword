@@ -1,6 +1,6 @@
 # lsl-changepassword
 
-script to allow the password change of the avatar directly in-world
+script to allow the password change of the avatar directly in-world OpenSimulator
 
 the script must be inserted in an object with touch event enabled.
 it asks for the password and a repeat for confirmation.
